@@ -13,12 +13,11 @@
 <script lang="ts">
 import Vue from "vue";
 import Component from "nuxt-class-component";
-import { Getter } from "vuex-class";
 
 @Component({
   head() {
     return {
-      title: "このサイトについて - 落ち葉拾い"
+      title: "このサイトについて - ホロジュール"
     };
   }
 })
