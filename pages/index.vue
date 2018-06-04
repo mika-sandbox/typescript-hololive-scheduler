@@ -3,7 +3,7 @@
     <div>
       <app-logo/>
       <h1 class="title">
-        holotable
+        Holodule
       </h1>
       <h2 class="subtitle">
         Hololive Timetable

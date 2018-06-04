@@ -1,4 +1,4 @@
-# holotable
+# Holodule
 
 > Hololive Timetable
 

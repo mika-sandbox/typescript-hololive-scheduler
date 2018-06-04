@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "name": "ときのそら",
+    "youtube": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+    "twitter": "https://twitter.com/tokino_sora",
+    "illustrator": "",
+    "hashtags": [
+      {
+        "name": "soraArt",
+        "genre": "ファンアート"
+      },
+      {
+        "name": "soraSong",
+        "genre": "ファンソング"
+      },
+      {
+        "name": "そらとも",
+        "genre": "ファンネーム"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "ロボ子さん",
+    "youtube": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+    "twitter": "https://twitter.com/robocosan",
+    "illustrator": "",
+    "hashtags": [
+      {
+        "name": "ロボ子Art",
+        "genre": "ファンアート"
+      },
+      {
+        "name": "ロボ子生放送",
+        "genre": "生放送"
+      },
+      {
+        "name": "ろぼさー",
+        "genre": "生放送"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "白上フブキ",
+    "youtube": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+    "twitter": "https://twitter.com/shirakamifubuki",
+    "illustrator": "https://twitter.com/lemon_mito",
+    "hashtags": [
+      {
+        "name": "すこん部",
+        "genre": "ファンネーム"
+      },
+      {
+        "name": "絵フブキ",
+        "genre": "ファンアート"
+      },
+      {
+        "name": "フブキch",
+        "genre": "生放送"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "夏色まつり",
+    "youtube": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+    "twitter": "https://twitter.com/natsuiromatsuri",
+    "illustrator": "https://twitter.com/halllki",
+    "hashtags": [
+      {
+        "name": "まつりす",
+        "genre": "ファンネーム"
+      },
+      {
+        "name": "祭絵",
+        "genre": "ファンアート"
+      },
+      {
+        "name": "夏まつch",
+        "genre": "生放送"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "赤井はあと",
+    "youtube": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+    "twitter": "https://twitter.com/akaihaato",
+    "illustrator": "https://twitter.com/haruyuki_nijyou",
+    "hashtags": [
+      {
+        "name": "AkaiHaato",
+        "genre": "ファントーク"
+      },
+      {
+        "name": "はあとart",
+        "genre": "ファンアート"
+      },
+      {
+        "name": "はあとch",
+        "genre": "生放送"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "アキ・ローゼンタール",
+    "youtube": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+    "twitter": "https://twitter.com/akirosenthal",
+    "illustrator": "https://twitter.com/akitake_a",
+    "hashtags": [
+      {
+        "name": "ロゼ隊",
+        "genre": "ファントーク"
+      },
+      {
+        "name": "アロ絵",
+        "genre": "ファンアート"
+      },
+      {
+        "name": "アキびゅーわーるど",
+        "genre": "生放送"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "人見クリス",
+    "youtube": "https://www.youtube.com/channel/UCbfQf5D9v8XBp7_sQsh5rfQ",
+    "twitter": "https://twitter.com/hitomikurisu",
+    "illustrator": "https://twitter.com/mate_wm",
+    "hashtags": [
+      {
+        "name": "人見アート",
+        "genre": "ファンアート"
+      },
+      {
+        "name": "クリスch",
+        "genre": "生放送"
+      }
+    ]
+  }
+]
