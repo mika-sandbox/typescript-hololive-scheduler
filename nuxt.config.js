@@ -10,7 +10,9 @@ module.exports = {
       { hid: 'description', name: 'description', content: 'Holodule, Time scheduler for Hololive talents. Inspired by Roboco-San' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: "stylesheet", href: "https://unpkg.com/bootstrap/dist/css/bootstrap.min.css" },
+      { rel: "stylesheet", href: "https://unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.css" }
     ]
   },
   /*
@@ -20,19 +22,15 @@ module.exports = {
   /*
   ** Build configuration
   */
+  modules: [
+    "modules/typescript.ts",
+    ["bootstrap-vue/nuxt", { css: false, bvCSS: false }],
+  ],
   build: {
     /*
     ** Run ESLint on save
     */
     extend(config, { isDev, isClient }) {
-      if (isDev && isClient) {
-        config.module.rules.push({
-          enforce: 'pre',
-          test: /\.(js|vue)$/,
-          loader: 'eslint-loader',
-          exclude: /(node_modules)/
-        })
-      }
     }
   },
   generate: {
