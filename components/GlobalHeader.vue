@@ -7,6 +7,6 @@
         b-navbar-nav.ml-auto
           b-nav-item(to="/schedules/today") 今日の予定
           b-nav-item(to="/schedules/") 過去ログ
-          b-nav-item(to="/talents/") ホロライブ VTuber
+          b-nav-item(to="/vtubers/") VTubers
           b-nav-item(to="/about") このサイトについて
 </template>

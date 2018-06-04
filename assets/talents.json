@@ -3,7 +3,7 @@
     "id": 1,
     "name": "ときのそら",
     "youtube": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-    "twitter": "https://twitter.com/tokino_sora",
+    "twitter": "tokino_sora",
     "icon": "https://pbs.twimg.com/profile_images/1002563086450999296/QGAz46dF_400x400.jpg",
     "illustrator": "",
     "hashtags": [
@@ -25,8 +25,8 @@
     "id": 2,
     "name": "ロボ子さん",
     "youtube": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+    "twitter": "robocosan",
     "icon": "https://pbs.twimg.com/profile_images/998298280155955200/05dfrxBd_400x400.jpg",
-    "twitter": "https://twitter.com/robocosan",
     "illustrator": "",
     "hashtags": [
       {
@@ -47,7 +47,7 @@
     "id": 3,
     "name": "白上フブキ",
     "youtube": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-    "twitter": "https://twitter.com/shirakamifubuki",
+    "twitter": "shirakamifubuki",
     "icon": "https://pbs.twimg.com/profile_images/1002482652920680448/q_lqTFw2_400x400.jpg",
     "illustrator": "https://twitter.com/lemon_mito",
     "hashtags": [
@@ -69,8 +69,8 @@
     "id": 4,
     "name": "夏色まつり",
     "youtube": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+    "twitter": "natsuiromatsuri",
     "icon": "https://pbs.twimg.com/profile_images/996646639912677376/7uQpzmsL_400x400.jpg",
-    "twitter": "https://twitter.com/natsuiromatsuri",
     "illustrator": "https://twitter.com/halllki",
     "hashtags": [
       {
@@ -91,8 +91,8 @@
     "id": 5,
     "name": "赤井はあと",
     "youtube": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+    "twitter": "akaihaato",
     "icon": "https://pbs.twimg.com/profile_images/1002486096175947776/Sb5LrSrz_400x400.jpg",
-    "twitter": "https://twitter.com/akaihaato",
     "illustrator": "https://twitter.com/haruyuki_nijyou",
     "hashtags": [
       {
@@ -113,7 +113,7 @@
     "id": 6,
     "name": "アキ・ローゼンタール",
     "youtube": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-    "twitter": "https://twitter.com/akirosenthal",
+    "twitter": "akirosenthal",
     "icon": "https://pbs.twimg.com/profile_images/1002491177386459136/xz9TqwMG_400x400.jpg",
     "illustrator": "https://twitter.com/akitake_a",
     "hashtags": [
@@ -135,8 +135,8 @@
     "id": 7,
     "name": "人見クリス",
     "youtube": "https://www.youtube.com/channel/UCbfQf5D9v8XBp7_sQsh5rfQ",
+    "twitter": "hitomikurisu",
     "icon": "https://pbs.twimg.com/profile_images/998380182128943104/1WXR3_87_400x400.jpg",
-    "twitter": "https://twitter.com/hitomikurisu",
     "illustrator": "https://twitter.com/mate_wm",
     "hashtags": [
       {

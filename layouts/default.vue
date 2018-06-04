@@ -19,12 +19,11 @@ export default {
 
 <style>
 .root {
-  padding-top: 65px;
-  position: relative;
+  margin-top: 80px;
   margin-bottom: 25px;
-  min-height: calc(100vh - 25px);
-}
-section {
-  padding: 10px 0 20px 0;
+  position: relative;
+  min-height: calc(100vh - 105px);
+  display: flex;
+  flex-direction: column;
 }
 </style>
