@@ -9,4 +9,4 @@ const credentials = {
   access_tokenSecret: 'YOUR_ACCESS_TOKEN_SECRET'
 };
 
-export credentials;
+export default credentials;
