@@ -1,9 +1,10 @@
 import { IHashtag } from "./Hashtag";
+import { IYouTube } from "./YouTube";
 
 export interface IVtuber {
-  id: number;
+  id: string;
   name: string;
-  youtube: string;
+  youtube: IYouTube;
   twitter: string;
   icon: string;
   illustrator: string;

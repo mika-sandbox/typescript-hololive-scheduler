@@ -1,8 +1,11 @@
 [
   {
-    "id": 1,
+    "id": "tokino_sora",
     "name": "ときのそら",
-    "youtube": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+    "youtube": {
+      "name": "SoraCh. ときのそらチャンネル",
+      "url": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg"
+    },
     "twitter": "tokino_sora",
     "icon": "https://pbs.twimg.com/profile_images/1002563086450999296/QGAz46dF_400x400.jpg",
     "illustrator": "",
@@ -22,9 +25,12 @@
     ]
   },
   {
-    "id": 2,
+    "id": "robocosan",
     "name": "ロボ子さん",
-    "youtube": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+    "youtube": {
+      "name": "Roboco Ch. - ロボ子",
+      "url": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g"
+    },
     "twitter": "robocosan",
     "icon": "https://pbs.twimg.com/profile_images/998298280155955200/05dfrxBd_400x400.jpg",
     "illustrator": "",
@@ -44,34 +50,41 @@
     ]
   },
   {
-    "id": 3,
+    "id": "shirakamifubuki",
     "name": "白上フブキ",
-    "youtube": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+    "youtube": {
+      "name": "フブキCh。白上フブキ",
+      "url": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+      "latest": "qph1ZZFQRXU"
+    },
     "twitter": "shirakamifubuki",
     "icon": "https://pbs.twimg.com/profile_images/1002482652920680448/q_lqTFw2_400x400.jpg",
-    "illustrator": "https://twitter.com/lemon_mito",
+    "illustrator": "lemon_mito",
     "hashtags": [
       {
         "name": "すこん部",
-        "category": "ファンネーム"
+        "category": "fan-name"
       },
       {
         "name": "絵フブキ",
-        "category": "ファンアート"
+        "category": "fan-art"
       },
       {
         "name": "フブキch",
-        "category": "生放送"
+        "category": "live"
       }
     ]
   },
   {
-    "id": 4,
+    "id": "natsuiromatsuri",
     "name": "夏色まつり",
-    "youtube": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+    "youtube": {
+      "name": "Matsuri Channel 夏色まつり",
+      "url": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg"
+    },
     "twitter": "natsuiromatsuri",
     "icon": "https://pbs.twimg.com/profile_images/996646639912677376/7uQpzmsL_400x400.jpg",
-    "illustrator": "https://twitter.com/halllki",
+    "illustrator": "halllki",
     "hashtags": [
       {
         "name": "まつりす",
@@ -88,12 +101,15 @@
     ]
   },
   {
-    "id": 5,
+    "id": "akaihaato",
     "name": "赤井はあと",
-    "youtube": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+    "youtube": {
+      "name": "Haato Channel 赤井はあと",
+      "url": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg"
+    },
     "twitter": "akaihaato",
     "icon": "https://pbs.twimg.com/profile_images/1002486096175947776/Sb5LrSrz_400x400.jpg",
-    "illustrator": "https://twitter.com/haruyuki_nijyou",
+    "illustrator": "haruyuki_nijyou",
     "hashtags": [
       {
         "name": "AkaiHaato",
@@ -110,12 +126,15 @@
     ]
   },
   {
-    "id": 6,
+    "id": "akirosenthal",
     "name": "アキ・ローゼンタール",
-    "youtube": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+    "youtube": {
+      "name": "Aki Channel アキ・ローゼンタール",
+      "url": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA"
+    },
     "twitter": "akirosenthal",
     "icon": "https://pbs.twimg.com/profile_images/1002491177386459136/xz9TqwMG_400x400.jpg",
-    "illustrator": "https://twitter.com/akitake_a",
+    "illustrator": "akitake_a",
     "hashtags": [
       {
         "name": "ロゼ隊",
@@ -132,12 +151,15 @@
     ]
   },
   {
-    "id": 7,
+    "id": "hitomikurisu",
     "name": "人見クリス",
-    "youtube": "https://www.youtube.com/channel/UCbfQf5D9v8XBp7_sQsh5rfQ",
+    "youtube": {
+      "name": "Kurisu Channel 人見クリス",
+      "url": "https://www.youtube.com/channel/UCbfQf5D9v8XBp7_sQsh5rfQ"
+    },
     "twitter": "hitomikurisu",
     "icon": "https://pbs.twimg.com/profile_images/998380182128943104/1WXR3_87_400x400.jpg",
-    "illustrator": "https://twitter.com/mate_wm",
+    "illustrator": "mate_wm",
     "hashtags": [
       {
         "name": "人見アート",

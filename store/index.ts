@@ -30,6 +30,9 @@ const actions = {
 const getters = {
   getVtubers: (state: IState): IVtuber[] => {
     return state.vtubers;
+  },
+  getVtuber: (state: IState): (id: string) => IVtuber => {
+    return (id: string) => state.vtubers.filter(w => w.id === id)[0];
   }
 };
 
