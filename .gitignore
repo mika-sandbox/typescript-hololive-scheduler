@@ -2,7 +2,7 @@
 node_modules
 
 # logs
-npm-debug.log
+*.log
 
 # Nuxt build
 .nuxt
@@ -10,4 +10,6 @@ npm-debug.log
 # Nuxt generate
 dist
 
-*.log
+# Holodule configuration
+tools/config.js
+

@@ -16,6 +16,7 @@
     "bootstrap-vue": "^2.0.0-rc.11",
     "nuxt": "^1.0.0",
     "nuxt-class-component": "^1.2.1",
+    "twitter": "^1.7.1",
     "vue-class-component": "^6.2.0",
     "vue-loader": "^13.7.2",
     "vue-property-decorator": "^6.1.0",
